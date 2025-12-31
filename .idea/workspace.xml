@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7de8897-8ba5-402d-b0de-913329777b82" name="Changes" comment="structure update">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e7de8897-8ba5-402d-b0de-913329777b82" name="Changes" comment="updated notebook Implementation" />
     <list id="daa45ebf-b065-4c42-b9cb-fe60fcef0105" name="chang" comment="" />
     <list id="302b57c9-d3db-437b-a2de-869736f7c401" name="Changespp" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +27,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -202,7 +193,39 @@
       <option name="project" value="LOCAL" />
       <updated>1767197684555</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="structure update">
+      <option name="closed" value="true" />
+      <created>1767205629321</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1767205629321</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated notebook Implementation">
+      <option name="closed" value="true" />
+      <created>1767212001726</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767212001726</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated notebook Implementation">
+      <option name="closed" value="true" />
+      <created>1767212236462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767212236462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated notebook Implementation">
+      <option name="closed" value="true" />
+      <created>1767212448160</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767212448160</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +254,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upto using the use of the api" />
     <MESSAGE value="structure update" />
-    <option name="LAST_COMMIT_MESSAGE" value="structure update" />
+    <MESSAGE value="updated notebook Implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated notebook Implementation" />
   </component>
 </project>

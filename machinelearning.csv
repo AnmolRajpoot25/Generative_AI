@@ -1,0 +1,5 @@
+MCQ,Choices,Correct
+What is a key characteristic of Machine Learning?,a: It requires large datasets to function | b: It can only be used for image recognition | c: It can learn patterns from data without being explicitly programmed | d: It is a type of Deep Learning,c
+What type of data is Deep Learning best suited for?,"a: Structured data like tables or CSV files | b: Unstructured data such as images, audio or text | c: Only text data | d: Only image data",b
+What is a disadvantage of Deep Learning?,a: It is easy to interpret | b: It can run on CPUs | c: It is difficult to interpret and requires more computation power | d: It works well with small datasets,c
+When should you use Machine Learning over Deep Learning?,"a: When working with large unstructured datasets | b: When data is structured and limited, and interpretability is important | c: When you need to recognize objects in images | d: When you need to convert spoken language into text",b

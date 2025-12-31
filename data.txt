@@ -1,0 +1,56 @@
+Machine Learning (ML) and Deep Learning (DL) are two core branches of Artificial Intelligence (AI) that focus on enabling computers to learn from data. While both are used to make predictions and automate decision-making, they differ in how they process data and the complexity of models they use. Understanding the differences between them helps us to choose the right approach for a problem, optimize resources and achieving better results in real-world applications.
+
+Machine Learning
+Machine Learning is a branch of Artificial Intelligence that enables computer systems to learn patterns from data and make predictions or decisions without being explicitly programmed by humans.
+
+Works with smaller datasets.
+Requires manual feature extraction.
+Easier to interpret and implement.
+Best for structured data like tables or CSV files.
+Types of Machine Learning Algorithms
+Different types of ML Algorithms:
+
+Supervised Learning: Here model learns from labelled datasets, where the input and output are clearly defined.
+Unsupervised Learning: Here the model identifies patterns or relationships in data without any predefined labels.
+Reinforcement Learning: Here the system learns by interacting with an environment and receiving rewards or penalties based on its actions.
+Applications:
+Spam Emails: Detecting spam emails or fraudulent transactions.
+Recommendation Systems: Building recommendation systems for movies, products or content.
+Analytics: Predictive analytics in finance, healthcare and marketing.
+Deep Learning
+Deep Learning uses artificial neural networks with multiple hidden layers that can automatically learn complex patterns from raw data like images, sound, and text. It’s used in applications such as image recognition, natural language processing, and speech recognition.
+
+Learns features automatically from data.
+Performs better with large datasets.
+Needs GPUs or TPUs for training.
+Best for unstructured data such as images, audio or text.
+Used in complex applications like self-driving cars or chatbots.
+Types of Deep Learning
+Deep learning encompasses various architectures, each suited to different types of tasks:
+
+Convolutional Neural Networks: Used for image processing tasks, CNNs are designed to adaptively learn spatial hierarchies of features through convolutional layers.
+Recurrent Neural Networks: Ideal for sequential data. RNNs have loops that allow information to persist, effective for tasks like speech recognition and language modeling.
+Long Short-Term Memory Networks: A type of RNN that addresses the vanishing gradient problem. They are used for complex sequences including text and speech.
+Generative Adversarial Networks: GANs consist of two neural networks that are generator and discriminator that compete against each other, creates synthetic data such as images.
+Transformers: Handles long-range dependencies in data. They are the backbone of models like GPT and BERT, used in natural language processing.
+Applications
+Some of the applications of DL:
+
+Object Detection: Recognizing objects and faces in images or videos.
+Natural Language Processing: Converting spoken language into text and understanding speech commands.
+Autonomous Vehicle: Enabling autonomous vehicles to perceive and navigate their environment.
+Difference Between Machine Learning and Deep Learning
+Difference between Machine Learning and Deep Learning:
+
+Basis	Machine Learning (ML)	Deep Learning (DL)
+Definition	Algorithms that learn from data and improve with experience.	Subset of ML using multi-layered neural networks.
+Data Requirement	Works well with small to medium datasets.	Requires large datasets for effective learning.
+Feature Extraction	Manual – features must be selected by experts.	Automatic – learns features directly from data.
+Training Time	Faster and less resource-intensive.	Slower and needs more computation power.
+Accuracy	Depends on feature quality and algorithm.	Usually higher with enough data.
+Hardware Needs	Can run on CPUs.	Often requires GPUs or TPUs.
+Interpretability	Easy to interpret.	Difficult to interpret (“black box”).
+Examples	Spam detection, stock prediction, recommendation systems.	Image classification, speech recognition, NLP.
+Which One to Choose?
+Use Machine Learning when data is structured and limited, and interpretability is important.
+Use Deep Learning when working with large unstructured datasets or complex pattern recognition tasks.
