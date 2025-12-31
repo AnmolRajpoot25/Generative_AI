@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e7de8897-8ba5-402d-b0de-913329777b82" name="Changes" comment="structure update">
-      <change afterPath="$PROJECT_DIR$/MCQ_generator.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/openAi_test_notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Groq_implementation_with_the_help_of_the_langchain.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hugging_face_with_langchain.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="daa45ebf-b065-4c42-b9cb-fe60fcef0105" name="chang" comment="" />
     <list id="302b57c9-d3db-437b-a2de-869736f7c401" name="Changespp" comment="" />
@@ -196,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767197183136</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="structure update">
+      <option name="closed" value="true" />
+      <created>1767197684555</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1767197684555</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

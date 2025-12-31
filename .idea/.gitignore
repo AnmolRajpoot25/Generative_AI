@@ -1,6 +1,5 @@
-Groq_implementation_with_the_help_of_the_langchain.ipynb
-hugging_face_with_langchain.ipynb
-*.ipynb_checkpoints/
+
+
 .env
 .idea/
 *.iml
