@@ -22,16 +22,28 @@ The project is designed to help **students, educators, and content creators** qu
 ### 🔹 High-Level Workflow
 
 Input Text / Dataset
+
 ↓
+
 Text Preprocessing
+
 ↓
+
 Keyword / Concept Extraction
+
 ↓
+
 Question Generation Logic
+
 ↓
+
 Option Generation
+
 ↓
+
 Final MCQs Output
+
+
 
 
 ---
@@ -39,14 +51,23 @@ Final MCQs Output
 ## 🖥️ Application Flow (Streamlit App)
 
 User Input (Text / File)
+
 ↓
+
 Streamlit Interface
+
 ↓
+
 AI / NLP Processing
+
 ↓
+
 MCQ Generation Engine
+
 ↓
+
 Display MCQs on Web App
+
 
 
 ---
